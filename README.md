@@ -8,17 +8,20 @@ If you haven’t done it yet, to be able to run Grunt, you’ll have to first in
 npm install –g grunt-cli
 ```
 
+<br>
 You need TypeScript on your machine:
 ```
 npm install –g typescript
 ```
 
+<br>
 Typescript is a typed language. It needs definitions files for the libraries you're using to be able to do it's work. There is an [opensource repository](http://definitelytyped.org/) full of TypeScript definitions for known libraries. Meaning someone has already done the job for us!
 There's a [manager]((http://www.tsdpm.com)) using this repository to make our work even simpler. So don't forget to install it:
 ```
 npm install –g tsd@next
 ```
 
+<br>
 This configuration use [nodemon](https://github.com/remy/nodemon) to handle the node server. So you need to install it:
 ```
 npm install -g nodemon
@@ -31,6 +34,7 @@ grunt
 ```
 Will lint and compile your TypeScript files.
 
+<br>
 ```
 grunt serve
 ```
