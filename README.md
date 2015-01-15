@@ -27,6 +27,18 @@ This configuration use [nodemon](https://github.com/remy/nodemon) to handle the 
 npm install -g nodemon
 ```
 
+##Installation
+
+Install necesseray npm packages:
+```
+npm install
+```
+
+Install necessary TypeScript definitions files:
+```
+tsd reinstall -s
+```
+
 ##Commands
 
 ```
