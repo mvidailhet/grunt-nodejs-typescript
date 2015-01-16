@@ -1,6 +1,8 @@
 # grunt-nodejs-typescript
 A powerful Grunt configuration that can lint and compile your TypeScript files and restart your node server each time you make a change to your code.
 
+Here is the full article explaining step by step the making of this config: http://geeklearning.io/grunt-configuration-for-your-nodejs-server-in-typescript/
+
 ##Prerequesities
 
 If you haven’t done it yet, to be able to run Grunt, you’ll have to first install [Node.js](http://nodejs.org). Then, install the Grunt CLI using npm (installed with NodeJS) by running this command:
