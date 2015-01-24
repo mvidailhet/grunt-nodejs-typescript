@@ -1,3 +1,5 @@
+![](http://i.imgur.com/JFb2mAW.jpg)
+
 # grunt-nodejs-typescript
 A powerful Grunt configuration that can lint and compile your TypeScript files and restart your node server each time you make a change to your code.
 
